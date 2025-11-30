@@ -38,5 +38,3 @@ https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Raise-The-Bar/td-p/48
 
 Built with ❤️ using Power BI, DAX, and Figma © 2025
 
-Below is the Fabric token for accessing the report:
-
