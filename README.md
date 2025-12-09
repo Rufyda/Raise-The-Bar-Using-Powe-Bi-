@@ -32,7 +32,7 @@ I wish the best of luck to everyone participating —
 ---
 
 ## 📁 Access to the Report
-https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Raise-The-Bar/td-p/4869638
+https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Spotlight-video-games-sales-analysis/td-p/4897157
 
 📧 Contact For questions or collaboration: Team Construction Analytics https://linktr.ee/RufydaRahma
 
