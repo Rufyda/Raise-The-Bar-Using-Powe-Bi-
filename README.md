@@ -29,12 +29,14 @@ I truly enjoyed the process, learned new design techniques, and gained fresh per
 I wish the best of luck to everyone participating —  
 **we’re all here to learn, collaborate, and grow together!** 💡
 
+
 ---
 
 ## 📁 Access to the Report
-https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Spotlight-video-games-sales-analysis/td-p/4897157
+
+https://community.fabric.microsoft.com/t5/QuickViz-Gallery/Raise-The-Bar/td-p/4869638
 
 📧 Contact For questions or collaboration: Team Construction Analytics https://linktr.ee/RufydaRahma
 
-Built with ❤️ using Power BI, DAX, and Figma © 2025
 
+Built with ❤️ using Power BI, DAX, and Figma © 2025
